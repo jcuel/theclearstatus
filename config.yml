@@ -18,14 +18,20 @@ languageCode: en
 ############################################################
 
 params:
+  groups: 
+    - Production
+    - Development
   systems:
     - name: Reflekt Me Production Environment
+      group: Production
       description: Backend Portal & Widget
       link: https://portal.reflektme.com/
     - name: Reflekt Me Dev Portal
+      group: Development
       description: Development / Beta Portal
       link: https://dev.reflektme.com/
     - name: Reflekt Me Dev Widget
+      group: Development
       description: Development / Beta Widget
       link: https://widget-levis.reflektme.app/
 
@@ -50,7 +56,23 @@ params:
   # Descriptions
   meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
   description_footer: "<a class='text-grey-darkest' title='Visit reflektme.com' href='https://www.reflektme.com/'>ReflektMe.com</a> Reflekt Me is a SaaS platform that enables retailers to reach 100% of their online shoppers by personalizing product images with REAL PEOPLE wearing every size and using every product variation directly on your product landing page."
-  description_header: "Information about <a class='text-grey-darkest' title='Visit Reflekt Me' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us on <a class='text-grey-darkest' title='Visit our Instagram' href='https://www.instagram.com/reflekt_me/'> Instagram.</a>"
+  #description_header: "Information about <a class='text-grey-darkest' title='Visit Reflekt Me' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us on <a class='text-grey-darkest' title='Visit our Instagram' href='https://www.instagram.com/reflekt_me'> Instagram.</a>"
+  description_header: "Information about <a class='text-grey-darkest' title='Visit Reflekt Me's Website' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page on Instagram' href='href='https://www.instagram.com/reflekt_me'>on Instagram</a> <a class='text-grey-darkest' href='%s' ></a><br />"
+
+  copyrightHolder: "Example Inc."
+
+  # Disqus commenting per issue: set your Disqus shortname here
+  # Leave empty for no discussion at all.
+  # You can also enable/disable discussions per issue
+  disqusShortname:
+
+  # Layout
+  eventsPerPage: 10
+
+############################################################
+## More default config. in /config/_default/params.yml
+############################################################
+
   copyrightHolder: "Reflekt Me Inc."
 
   # Disqus commenting per issue: set your Disqus shortname here
