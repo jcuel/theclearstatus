@@ -38,7 +38,7 @@ params:
   # Set it for instance to " UTC" to indicate UTC times
   # or a specific time zone, ie " America/New_York"
   # You can also instead used a translated string per language
-  timezoneString: "NY Time Zone"
+  timezoneString: " NY Time Zone"
 
   # Path to logo image from the /static folder.
   logo: "/images/clearstatus.png"
@@ -50,7 +50,7 @@ params:
   # Descriptions
   meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
   description_footer: "<a class='text-grey-darkest' title='Visit reflektme.com' href='https://www.reflektme.com/'>ReflektMe.com</a> creates eCommerce Web applications that seeks to create a world where diversity and inclusion are celebrated and validated during the online shopping experience. We seek to change the fashion and beauty industry’s body representation narrative by diversifying the sizes of and use of real people to model clothing and products on online retail eCommerce websites. Our goal is to expand this highly personalized experience across all industries.."
-  description_header: "Information about <a class='text-grey-darkest' title='Visit ReflektMe.com' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page' href='https://www.instagram.com/reflekt_me/'>on Instagram</a> or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new events."
+  description_header: "Information about <a class='text-grey-darkest' title='Visit ReflektMe.com' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page' href='https://www.instagram.com/reflekt_me/'>on Instagram</a>."
 
   copyrightHolder: "Reflekt Me Inc."
 
