@@ -19,8 +19,8 @@ languageCode: en
 
 params:
   systems:
-    - name: Reflekt Me Portal
-      description: Backend Portal
+    - name: Reflekt Me Production Environment
+      description: Backend Portal & Widget
       link: https://portal.reflektme.com/
     - name: Reflekt Me Dev Portal
       description: Development / Beta Portal
@@ -50,7 +50,7 @@ params:
   # Descriptions
   meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
   description_footer: "<a class='text-grey-darkest' title='Visit reflektme.com' href='https://www.reflektme.com/'>ReflektMe.com</a> creates eCommerce Web applications that seeks to create a world where diversity and inclusion are celebrated and validated during the online shopping experience. We seek to change the fashion and beauty industry’s body representation narrative by diversifying the sizes of and use of real people to model clothing and products on online retail eCommerce websites. Our goal is to expand this highly personalized experience across all industries.."
-  description_header: "Information about <a class='text-grey-darkest' title='Visit ReflektMe.com' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page' href='https://www.instagram.com/reflekt_me/'>on Instagram</a>."
+  description_header: "Information about <a class='text-grey-darkest' title='Visit ReflektMe.com' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page' href='https://www.instagram.com/reflekt_me/'>on Instagram."
 
   copyrightHolder: "Reflekt Me Inc."
 
