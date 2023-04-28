@@ -49,8 +49,8 @@ params:
 
   # Descriptions
   meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
-  description_footer: "<a class='text-grey-darkest' title='Visit reflektme.com' href='https://www.reflektme.com/'>ReflektMe.com</a> creates eCommerce Web applications that seeks to create a world where diversity and inclusion are celebrated and validated during the online shopping experience. We seek to change the fashion and beauty industry’s body representation narrative by diversifying the sizes of and use of real people to model clothing and products on online retail eCommerce websites. Our goal is to expand this highly personalized experience across all industries.."
-  description_header: "Information about <a class='text-grey-darkest' title='Visit Reflekt Me' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br />Follow us on <a class='text-grey-darkest' title='Visit our Instagram' href='https://www.instagram.com/reflekt_me/'> Instagram</a><br />"
+  description_footer: "<a class='text-grey-darkest' title='Visit reflektme.com' href='https://www.reflektme.com/'>ReflektMe.com</a> Reflekt Me is a SaaS platform that enables retailers to reach 100% of their online shoppers by personalizing product images with REAL PEOPLE wearing every size and using every product variation directly on your product landing page."
+  description_header: "Information about <a class='text-grey-darkest' title='Visit Reflekt Me' href='https://www.reflektme.com/'>REFLEKT ME</a> systems operations.<br>Follow us on <a class='text-grey-darkest' title='Visit our Instagram' href='https://www.instagram.com/reflekt_me/'> Instagram</a></br>"
   copyrightHolder: "Reflekt Me Inc."
 
   # Disqus commenting per issue: set your Disqus shortname here
